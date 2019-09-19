@@ -5,7 +5,7 @@ from time import sleep
 from telegram.ext import Updater, CommandHandler
 
 
-TOKEN = ""
+TOKEN = "928813762:AAHP6Zms32Vw2x-6NhIroSm2ewYzm9mxaiw"
 
 
 def update_db(update, context):

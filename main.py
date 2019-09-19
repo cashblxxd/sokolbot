@@ -7,7 +7,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 with open('dump.json', 'r', encoding='utf-8') as f:
     data = load(f)
 
-TOKEN = ""
+TOKEN = "963057313:AAFAwAgE6uDUhxqGzhKQTPu6fLkAM_WZFoc"
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
